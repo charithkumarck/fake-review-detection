@@ -1,1 +1,2 @@
-# fake-review-detection
+Fake Review Detection System
+This repository is based on the project work done in 7th SEM...
